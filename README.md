@@ -5,7 +5,11 @@ Product Developer
 -----------------
 
 Hi👋, let me introduce myself.
- I am a Fullstack Developer. I started my developer career when i was almost in my final year in high school, because a good friend of mine introduced me to HTML. Presently, i am into: -Web Development -Mobile App Development Due to the emergence of web3, i decided to delve into Blockchain Development, and it has been a very great experience
+ I am a Fullstack Developer. I started my developer career when i was almost in my final year in high school, because a good friend of mine introduced me to HTML.
+ Presently, i am into:
+-Web Development 
+-Mobile App Development
+ Due to the emergence of web3, i decided to delve into Blockchain Development, and it has been a very great experience
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://umeh-somtochukwu-daniel.vercel.app/)
