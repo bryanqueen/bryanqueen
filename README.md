@@ -6,7 +6,8 @@ Product Developer
 
 Hi👋, let me introduce myself.
  I am a Fullstack Developer. I started my developer career when i was almost in my final year in high school, because a good friend of mine introduced me to HTML.
- Presently, i am into
+ Presently, i am into:
+------------
 Web Development and
 Mobile App Development
  Due to the emergence of web3, i decided to delve into Blockchain Development, and it has been a very great experience
